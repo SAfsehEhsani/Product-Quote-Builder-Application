@@ -13,7 +13,8 @@ totals in real-time, and presents the quote in a professional layout.
 �
 
 <h1>App Screenshots</h1>
-<img src= "Quote Home.png" width="200">|<img src= "QuoteAppEntry.png" width="200"> | <img src="Quotation.png" width="200"> 
+
+<img src= "Quote Home.png" width="200">|<img src= "QuoteAppEntry.png" width="200">|<img src="Quotation.png" width="200"> 
 
 
 
