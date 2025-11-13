@@ -1,0 +1,18 @@
+name: product_quote_builder
+description: A Flutter app for generating quotes with PDF export & smart tax.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.0
+  pdf: ^3.10.4
+  printing: ^5.12.0
+  
+
+flutter:
+  uses-material-design: true
