@@ -12,7 +12,7 @@ totals in real-time, and presents the quote in a professional layout.
 • UI organization for professional B2B tools 
 �
 #App Look
-<img src="main/QuoteHome.png" width="300">
+<img src="QuoteHome.png" width="100">
 � Requirements 
 1. Quote Form UI 
 a. The user should be able to input:  
