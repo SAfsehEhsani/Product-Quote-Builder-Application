@@ -11,8 +11,11 @@ totals in real-time, and presents the quote in a professional layout.
 • Real-time business logic calculations 
 • UI organization for professional B2B tools 
 �
+
 #App Look
-<img src="Quote Home.png" width="300">
+<p align="center">
+<img src="Quote Home.png" width="250"> <img src= "QuoteAppEntry.png" width="250"> <img src="Quotation" width="250">
+</p>
 
 
 � Requirements 
