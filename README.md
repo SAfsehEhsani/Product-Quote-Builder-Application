@@ -1,16 +1,16 @@
 # Product-Quote-Builder-Application
 Build a Product Quote Builder 
-�
-� Objective 
+
+# Objective 
 Develop a product quotation form that allows users to input multiple products or services, calculates 
 totals in real-time, and presents the quote in a professional layout. 
-�
-� What We Want to See 
+
+# What We Want to See 
 • Ability to work with nested dynamic lists 
 • Responsive layout for multiple line items 
 • Real-time business logic calculations 
 • UI organization for professional B2B tools 
-�
+
 
 <h1>App Screenshots</h1>
 
@@ -18,7 +18,7 @@ totals in real-time, and presents the quote in a professional layout.
 
 
 
-� Requirements 
+#  Requirements 
 1. Quote Form UI 
 a. The user should be able to input:  
 i. 
