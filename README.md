@@ -14,7 +14,7 @@ totals in real-time, and presents the quote in a professional layout.
 
 #App Look
 <p align="center">
-<img src="Quote Home.png" width="250"> <img src= "QuoteAppEntry.png" width="250"> <img src="Quotation" width="250">
+<img src="Quote Home.png" width="200"> <img src= "QuoteAppEntry.png" width="200"> <img src="Quotation" width="200">
 </p>
 
 
