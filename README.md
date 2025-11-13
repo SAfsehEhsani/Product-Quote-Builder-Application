@@ -12,7 +12,6 @@ totals in real-time, and presents the quote in a professional layout.
 • UI organization for professional B2B tools 
 �
 
-#App Look
 <h1>App Screenshots</h1>
 <img src= "Quote Home.png" width="200">|<img src= "QuoteAppEntry.png" width="200"> | <img src="Quotation.png" width="200"> 
 
