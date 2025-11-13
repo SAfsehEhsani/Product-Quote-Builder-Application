@@ -17,6 +17,8 @@ totals in real-time, and presents the quote in a professional layout.
 <img src= "QuoteAppEntry.png" width="200"> <img src="Quotation" width="200">
 </p>
 
+<img src="Quotation.png" align="center" width="200">
+
 
 � Requirements 
 1. Quote Form UI 
